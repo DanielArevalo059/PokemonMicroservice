@@ -10,7 +10,7 @@
   <h3>Receive Data</h3>
 The same text file - 'data_pipeline.txt' - will then be replaced with the name, type, species, description, and image hyperlink to the corresponding Pokemon with a newline separating each set of data. To continue the example above, after reading '5' in 'data_pipeline.txt', Pokedex_Microservice.py will replace '5' with the following:
 
-Name: Charmeleon
+<p>Name: Charmeleon</p> 
 Type: ['Fire']
 Species: Flame Pokémon
 Description: Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.
