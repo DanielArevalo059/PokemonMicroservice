@@ -17,6 +17,6 @@ The same text file - 'data_pipeline.txt' - will then be replaced with the name, 
 <p>Description: Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.</p>
 <p>Image: https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png</p>
 --------------------------------------------
-<h3>UML</h3>
+<h3>UML Sequence Diagram</h3>
 
 ![PokemonMicroservice_UML](./PokemonMicroservice_UML.png)
