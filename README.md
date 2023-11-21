@@ -9,8 +9,7 @@
 
   <h3>Receive Data</h3>
 The same text file - 'data_pipeline.txt' - will then be replaced with the name, type, species, description, and image hyperlink to the corresponding Pokemon with a newline separating each set of data. To continue the example above, after reading '5' in 'data_pipeline.txt', Pokedex_Microservice.py will replace '5' with the following:
-
-
+<p></p>
 <p>Name: Charmeleon</p>
 <p>Type: ['Fire']</p> 
 <p>Species: Flame Pokémon</p>
