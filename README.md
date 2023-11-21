@@ -18,4 +18,4 @@ The same text file - 'data_pipeline.txt' - will then be replaced with the name, 
 <p>Image: https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png</p>
 --------------------------------------------
 <h3>UML</h3>
-![PokemonMicroservice_UML](../PokemonMicroservice_UML.png)
+![PokemonMicroservice_UML](.PokemonMicroservice_UML.png)
